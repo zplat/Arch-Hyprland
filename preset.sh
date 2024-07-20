@@ -8,7 +8,7 @@
 
 ### -Type AUR helper
 ### yay or paru 
-aur_helper="yay"
+aur_helper="paru"
 ############ use : "Y" or "N"
 ###-Do you have any nvidia gpu in your system?
 nvidia="Y"
@@ -43,6 +43,6 @@ install_sddm_theme="Y"
 ### " Please note that adding yourself to the 'input' group might be necessary for waybar keyboard-state functionality."
 input_group_choid="Y"
 ### OPTIONAL - Do you want to add Pokemon color scripts? (y/n): 
-pokemon_choice="Y"
+pokemon_choice="N"
 ### Do you want to upgrade to the latest version? (y/n) - This is for the dotfiles
 upgrade_choice="Y"
