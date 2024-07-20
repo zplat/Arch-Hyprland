@@ -4,6 +4,7 @@
 
 base=( 
   base-devel
+  linux-headers
 )
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
 source "$(dirname "$(readlink -f "$0")")/Global_functions.sh"
