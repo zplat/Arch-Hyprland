@@ -8,7 +8,7 @@
 
 # add packages wanted here
 Extra=(
-
+alsa-utils
 )
 
 hypr_package=( 
