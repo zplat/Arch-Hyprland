@@ -1,0 +1,52 @@
+resolving dependencies...
+looking for conflicting packages...
+
+Package (1)      New Version  Net Change  Download Size
+
+extra/xarchiver  0.5.4.25-1     1.51 MiB       0.50 MiB
+
+Total Download Size:   0.50 MiB
+Total Installed Size:  1.51 MiB
+
+:: Proceed with installation? [Y/n] 
+:: Retrieving packages...
+ xarchiver-0.5.4.25-1-x86_64 downloading...
+checking keyring...
+checking package integrity...
+loading package files...
+checking for file conflicts...
+checking available disk space...
+:: Processing package changes...
+installing xarchiver...
+Optional dependencies for xarchiver
+    arj: ARJ support
+    binutils: deb support [installed]
+    bzip2: bzip2 support [installed]
+    cpio: RPM support
+    gzip: gzip support [installed]
+    lha: LHA support
+    lrzip: lrzip support
+    lz4: LZ4 support [installed]
+    lzip: lzip support
+    lzop: LZOP support
+    p7zip: 7z support [installed]
+    tar: tar support [installed]
+    unarj: ARJ support
+    unrar: RAR support
+    unzip: ZIP support [installed]
+    xdg-utils: recognize more file types to open [installed]
+    xz: xz support [installed]
+    zip: ZIP support [installed]
+    zstd: zstd support [installed]
+:: Running post-transaction hooks...
+(1/7) Arming ConditionNeedsUpdate...
+(2/7) Updating icon theme caches...
+(3/7) Keep the last cache and the currently installed.
+==> no candidate packages found for pruning
+(4/7) pkgAUR.hook
+(5/7) pkgClean.hook
+(6/7) pkgCore.hook
+(7/7) Updating the desktop file MIME type cache...
+[33m[NOTE](B[m Config for [35mgtk-3.0(B[m found, no need to copy.
+[33m[NOTE](B[m Config for [35mThunar(B[m found, no need to copy.
+[33m[NOTE](B[m Config for [35mxfce4(B[m found, no need to copy.
